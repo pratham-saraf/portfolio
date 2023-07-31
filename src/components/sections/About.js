@@ -80,7 +80,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Phone :</span>
-                    <span>+91-8982597809</span>
+                    <span><a href='tel:+918928597809'>91-8982597809</a></span>
                   </span>
                 </span>
               </li>
@@ -88,7 +88,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Email :</span>
-                    <span>Prathammsaraf@gmail.com</span>
+                    <span><a href='mailto:prathammsaraf@gmail.com'>Prathammsaraf@gmail.com</a></span>
                   </span>
                 </span>
               </li>

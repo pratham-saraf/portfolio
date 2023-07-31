@@ -19,8 +19,18 @@ const Blog = () => {
 
   return (
     <section className="blog main-section flex-column-mobile" id="blog">
-     {/* TITLE STARTS */}
-      {/* ... */}
+      {/* TITLE STARTS */}
+      <div className="custom-title">
+        {/* MAIN TITLE STARTS */}
+        <h3>
+          <span>
+            <span className="animated-layer fade-in-left-animation fadeInUp wow">
+              Latest Posts
+            </span>
+          </span>
+        </h3>
+        {/* MAIN TITLE ENDS */}
+      </div>
       {/* TITLE ENDS */}
       {/* LATEST POSTS STARTS */}
       <div className="latestposts flex-column-mobile">

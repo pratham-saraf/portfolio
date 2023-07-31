@@ -22,27 +22,27 @@ const Contact = () => {
             <i className="fa fa-phone" />
             <p>
               <span className="small-text">phone</span>
-              +91 8982597809
+              <a href="tel:+918982597809">+91 8982597809</a>
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
-          {/* CONTACT ITEM STARTS */}
-          <div className="animated-layer fade-in-up-animation fadeInUp wow">
-            <i className="fa fa-location-dot" />
-            <p>
-              <span className="small-text">address</span>
-              India
-            </p>
-          </div>
-          {/* CONTACT ITEM ENDS */}
-        </div>
-        <div>
           {/* CONTACT ITEM STARTS */}
           <div className="animated-layer fade-in-down-animation fadeInUp wow">
             <i className="fa fa-envelope" />
             <p>
               <span className="small-text">email</span>
-              prathammsaraf@gmail.com
+              <a href="mailto:prathammsaraf@gmail.com">prathammsaraf@gmail.com</a>
+            </p>
+          </div>
+          {/* CONTACT ITEM ENDS */}
+        </div>
+        <div>
+            {/* CONTACT ITEM STARTS */}
+            <div className="animated-layer fade-in-up-animation fadeInUp wow">
+            <i className="fa fa-location-dot" />
+            <p>
+              <span className="small-text">address</span>
+              India
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}

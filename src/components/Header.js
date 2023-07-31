@@ -25,7 +25,7 @@ const Header = () => {
                 <span id="blog-link">Blog</span>
               </li>
               <li>
-                <span id="resume-link"> <a href="https://drive.google.com/file/d/1iuAFhJuGXnJJH8Zz-cRLrgsymDmBQMU_/view?usp=sharing" target="_blank" className="resume-anchor">Resume</a></span>
+                <span id="resume-link"> <a href="public/assets/docs/resume.pdf" target="_blank" className="resume-anchor">Resume</a></span>
               </li>
             </ul>
           </nav>
@@ -34,7 +34,7 @@ const Header = () => {
         {/* FREELANCE STARTS */}
         <div className="mail">
           <p>
-            Email :<span> Prathammsaraf@gmail.com</span>
+            Email :<span> <a href='mailto:prathammsaraf@gmail.com'>Prathammsaraf@gmail.com</a></span>
           </p>
         </div>
         {/* FREELANCE ENDS */}
