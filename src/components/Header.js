@@ -74,7 +74,7 @@ const Header = () => {
               </a>
             </li>
             <li>
-              <a href="https://drive.google.com/file/d/1iuAFhJuGXnJJH8Zz-cRLrgsymDmBQMU_/view?usp=sharing" target="_blank" className="resume-anchor">
+              <a href="assets/docs/resume.pdf" target="_blank" className="resume-anchor">
                 <span>Resume</span>
               </a>
             </li>
