@@ -222,7 +222,7 @@ const About = () => {
                   <h4>Machine Learning Intern</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>May 2023 - Now</span>
+                    <span>May 2023 - Present</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
@@ -256,7 +256,7 @@ const About = () => {
                   <h4>Assitant AI-ML Lead</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>Aug 2022- Present </span>
+                    <span>Aug 2022- Aug 2023 </span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
