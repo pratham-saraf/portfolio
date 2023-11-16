@@ -222,7 +222,7 @@ const About = () => {
                   <h4>Machine Learning Intern</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>May 2023 - Present</span>
+                    <span>May 2023 - Nov 2023</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
@@ -232,6 +232,21 @@ const About = () => {
               </div>
             </li>
             {/* TIMELINE ITEM ENDS */}
+            <li>
+              <div className="animated-layer fade-in-up-animation fadeInUp wow">
+                <div className="experience">
+                  <h4>Machine Learning Intern</h4>
+                  <p>
+                    <i className="fa-regular fa-clock" />
+                    <span>Dec 2022 - Jan 2023</span>
+                  </p>
+                  <p>
+                    <i className="fa-regular fa-building" />
+                    <span>Red Positive </span>
+                  </p>
+                </div>
+              </div>
+            </li>
             {/* TIMELINE ITEM STARTS */}
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
